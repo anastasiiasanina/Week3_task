@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#chicken, #beef, #sushi {
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+  background-color: rgb(161, 160, 160);
+}
+
+#navigation {
+  background-color: rgb(255, 255, 255);
+}
+
+#block {
+  margin-bottom: 15px;
+}
